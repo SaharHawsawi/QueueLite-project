@@ -1,4 +1,4 @@
-# foundation-of-software-engineering-project
+# QueueLite, a lightweight appointment and queue management system project
 QueueLite, a lightweight appointment and queue management system for small clinics, salons, and consultation centers.
 # About the Project
 QueueLite is a lightweight appointment and queue management system designed to simplify appointment scheduling for small clinics and consultation centers. The system aims to replace manual booking methods, such as messaging applications, with a centralized digital solution. It allows clients to book, modify, and cancel appointments, enables receptionists to manage schedules and update appointment statuses, and helps managers monitor daily performance through reports.
