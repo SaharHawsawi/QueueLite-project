@@ -39,6 +39,6 @@ Potential future enhancements include:
 * Expanded Scalability: Extend support to additional branches and larger organizations.
 # 👩‍💻 Team Members
 * Retaj Majed Alotaibi [linkedin profile](https://www.linkedin.com/in/retaj-alotaibi)
-* Shamayil Khouj *linked profile will be updated once i have it*
+* Shamayil Khouj [linked profile](https://www.linkedin.com/in/shamayil-khoj?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 * Elham Alzahrani [linkedin profile](https://www.linkedin.com/in/elham-alzahrani-791014246)
 * Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
